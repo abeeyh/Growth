@@ -1,0 +1,16 @@
+.Usuarios table {
+    width: 100%;
+}
+
+.Usuarios th {
+    background-color: #283cae;
+    color: #fff;
+}
+
+.Usuarios .Par {
+    background-color: #ddd;
+}
+
+.Usuarios .Impar {
+    background-color: #ccc;
+}
